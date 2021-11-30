@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-O objetivo é ilustrar um docker-compose que ir[a montar 3 imagens para nós. São elas:
+O objetivo é ilustrar um docker-compose que irá montar 3 imagens para nós. São elas:
 - ElasticSearch - Porta 9200
 - Kinana - Porta 5601
 - APM Server - Porta 8200 e 8201
